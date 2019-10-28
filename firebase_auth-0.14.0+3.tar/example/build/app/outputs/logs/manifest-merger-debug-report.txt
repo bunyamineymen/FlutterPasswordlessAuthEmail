@@ -1,0 +1,512 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml:1:1-19:12
+INJECTED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml:1:1-19:12
+INJECTED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml:1:1-19:12
+INJECTED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml:1:1-19:12
+MERGED from [:firebase_dynamic_links] C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\build\firebase_dynamic_links\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-dynamic-links:19.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-19.0.0.aar\35849a3e883b43fe9040696ddd56d206\AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core] C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.9.aar\0f7706f041d937f24bb0a1ac1cd5e09d\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-analytics:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-17.2.1.aar\9dd85ec6a64cf80b27db674ed03257bd\AndroidManifest.xml:2:1-9:12
+MERGED from [:firebase_auth] C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:google_sign_in] C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\build\google_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-17.0.0.aar\ed31a20fbfc68a04d38b66817c5f4b85\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-16.0.1.aar\11f55a9627d9d478945f004ab22bfc83\AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\7ca49437f9f74dffe18c6c13fb996c37\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-interop-17.0.0.aar\cf4b6d77736b10d560502a2630d1a238\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-api-phone-16.0.0.aar\26c80221224445d6a92b24a46d2017d0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-base-16.0.0.aar\e3e5d81b05aa239359230970cd6b9400\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-17.2.1.aar\f2164b0bd65e2fa6b5406da08c61ddcb\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\0acd4d4174dcc36cef4c633e6e9fc987\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-17.0.0.aar\21cc1d9dcedb7e2ab7e003db78db5f7e\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\9ef06eddd320b727e7aa68dde1c29195\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-common-19.0.0.aar\4dff437197083ae14f147fb7691e4ca3\AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.0.aar\0e7cbf9e2d80b81ba867f75102d53ca7\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-18.0.0.aar\06c6d206556ecb704af3c14d6771aa35\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.1.aar\99aa9ba7c92af5fde1e869dee2e3e012\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-17.2.1.aar\de932de0897689cd4b5b4e98d9a81fac\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-17.2.1.aar\c76c24962f614366812439807eb7326c\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-17.2.1.aar\cf2df22e688eb5db7369cb089535a3ee\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-17.2.1.aar\8cb2e24e74e3eac3517f6003e2f5bf4a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-stats-17.0.0.aar\b628570f5353d7f478d09a731872587d\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-17.0.0.aar\f8471fe628f895f86a7181b9e3540af8\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\f78f8af59dc9aee97b92b8ae733f0977\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\070be1500897fe0c02beb4758c51a31d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\c23ea777b00249559e8cd77c25a85af7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\e3bbe09edda4e433008e22ee7e806341\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\fda8173e0cb6628bb1c3d19cfead096c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\e3a4a3454c3c5903959f0b5f0012d81b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\069969af22d6c99f6eb73ec22343d97b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\2b2d134a05bb893bd78aafe0101146f2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\1b25bda8d97e0af8283f3bd4afb6db82\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\106374c3234465fbdffb430593e6c352\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\621ea3000541df29002d7ad2090fa5c7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\32e0806aba037e553e5976d5011dee88\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\1845049aff89224fd5ae527df8ce55d7\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\54117d00ed7da996550de5a1b5f39912\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\9a937708cd0591434b6aa361016418d3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\8750fb1683e95a67709d0bd32444c078\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\2609bdbff4a19709341ad347e33d3ef6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\ce309c852d54118283d2449da26070ec\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\446a734eb042fedd0dc3d0b749645914\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\8138bb40dcc4ceb4c587ff5a65b56cec\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\d838c7605999897c9fbc4e316caf12f2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\a416dd17e43718d8ab02beab6df7aa12\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\9b024bfdd1bb7ace09d234bd46cfa74b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\5e349af5058d5e99918c99cc784d2b64\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml:1:1-19:12
+INJECTED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml:1:1-19:12
+INJECTED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml:1:1-19:12
+	package
+		ADDED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml:1:70-118
+		INJECTED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml:1:1-19:12
+		INJECTED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml:1:1-19:12
+		INJECTED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml:2:2-64
+MERGED from [:firebase_dynamic_links] C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\build\firebase_dynamic_links\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [:firebase_dynamic_links] C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\build\firebase_dynamic_links\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [:google_sign_in] C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\build\google_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [:google_sign_in] C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\build\google_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-17.2.1.aar\f2164b0bd65e2fa6b5406da08c61ddcb\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-17.2.1.aar\f2164b0bd65e2fa6b5406da08c61ddcb\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\0acd4d4174dcc36cef4c633e6e9fc987\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\0acd4d4174dcc36cef4c633e6e9fc987\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.1.aar\99aa9ba7c92af5fde1e869dee2e3e012\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.1.aar\99aa9ba7c92af5fde1e869dee2e3e012\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-17.2.1.aar\c76c24962f614366812439807eb7326c\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-17.2.1.aar\c76c24962f614366812439807eb7326c\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-17.2.1.aar\cf2df22e688eb5db7369cb089535a3ee\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-17.2.1.aar\cf2df22e688eb5db7369cb089535a3ee\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml:2:19-61
+application
+ADDED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml:3:2-18:16
+MERGED from [com.google.firebase:firebase-dynamic-links:19.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-19.0.0.aar\35849a3e883b43fe9040696ddd56d206\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-dynamic-links:19.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-19.0.0.aar\35849a3e883b43fe9040696ddd56d206\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.9.aar\0f7706f041d937f24bb0a1ac1cd5e09d\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.9.aar\0f7706f041d937f24bb0a1ac1cd5e09d\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-17.2.1.aar\9dd85ec6a64cf80b27db674ed03257bd\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-17.2.1.aar\9dd85ec6a64cf80b27db674ed03257bd\AndroidManifest.xml:7:5-20
+MERGED from [:firebase_auth] C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-17.0.0.aar\ed31a20fbfc68a04d38b66817c5f4b85\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-17.0.0.aar\ed31a20fbfc68a04d38b66817c5f4b85\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-16.0.1.aar\11f55a9627d9d478945f004ab22bfc83\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-16.0.1.aar\11f55a9627d9d478945f004ab22bfc83\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-interop-17.0.0.aar\cf4b6d77736b10d560502a2630d1a238\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-interop-17.0.0.aar\cf4b6d77736b10d560502a2630d1a238\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-17.2.1.aar\f2164b0bd65e2fa6b5406da08c61ddcb\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-17.2.1.aar\f2164b0bd65e2fa6b5406da08c61ddcb\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\0acd4d4174dcc36cef4c633e6e9fc987\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\0acd4d4174dcc36cef4c633e6e9fc987\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-17.0.0.aar\21cc1d9dcedb7e2ab7e003db78db5f7e\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-17.0.0.aar\21cc1d9dcedb7e2ab7e003db78db5f7e\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\9ef06eddd320b727e7aa68dde1c29195\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\9ef06eddd320b727e7aa68dde1c29195\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-common-19.0.0.aar\4dff437197083ae14f147fb7691e4ca3\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-common-19.0.0.aar\4dff437197083ae14f147fb7691e4ca3\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.0.aar\0e7cbf9e2d80b81ba867f75102d53ca7\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.0.aar\0e7cbf9e2d80b81ba867f75102d53ca7\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-18.0.0.aar\06c6d206556ecb704af3c14d6771aa35\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-18.0.0.aar\06c6d206556ecb704af3c14d6771aa35\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.1.aar\99aa9ba7c92af5fde1e869dee2e3e012\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.1.aar\99aa9ba7c92af5fde1e869dee2e3e012\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-17.2.1.aar\de932de0897689cd4b5b4e98d9a81fac\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-17.2.1.aar\de932de0897689cd4b5b4e98d9a81fac\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-17.2.1.aar\c76c24962f614366812439807eb7326c\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-17.2.1.aar\c76c24962f614366812439807eb7326c\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-17.2.1.aar\8cb2e24e74e3eac3517f6003e2f5bf4a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-17.2.1.aar\8cb2e24e74e3eac3517f6003e2f5bf4a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-stats-17.0.0.aar\b628570f5353d7f478d09a731872587d\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-stats-17.0.0.aar\b628570f5353d7f478d09a731872587d\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-17.0.0.aar\f8471fe628f895f86a7181b9e3540af8\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-17.0.0.aar\f8471fe628f895f86a7181b9e3540af8\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\f78f8af59dc9aee97b92b8ae733f0977\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\f78f8af59dc9aee97b92b8ae733f0977\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\1845049aff89224fd5ae527df8ce55d7\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\1845049aff89224fd5ae527df8ce55d7\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\54117d00ed7da996550de5a1b5f39912\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\54117d00ed7da996550de5a1b5f39912\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\1845049aff89224fd5ae527df8ce55d7\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml:3:64-101
+	android:icon
+		ADDED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml:3:102-136
+	android:name
+		ADDED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml:3:15-63
+activity#io.flutter.plugins.firebaseauthexample.MainActivity
+ADDED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml:4:3-17:14
+	android:launchMode
+		ADDED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml:4:42-72
+	android:hardwareAccelerated
+		ADDED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml:4:221-255
+	android:windowSoftInputMode
+		ADDED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml:4:256-298
+	android:configChanges
+		ADDED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml:4:127-220
+	android:theme
+		ADDED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml:4:73-126
+	android:name
+		ADDED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml:4:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml:5:4-8:20
+action#android.intent.action.MAIN
+ADDED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml:6:5-57
+	android:name
+		ADDED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml:6:13-54
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml:7:15-62
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:dev.flutter.plugins.firebaseauthexample+data:host:hergele101.page.link+data:host:hergele101.page.link+data:scheme:http+data:scheme:https+data:scheme:https
+ADDED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml:9:4-16:20
+action#android.intent.action.VIEW
+ADDED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml:10:5-57
+	android:name
+		ADDED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml:10:13-54
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml:11:5-64
+	android:name
+		ADDED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml:11:15-61
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml:12:15-63
+data
+ADDED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml:13:5-91
+	android:host
+		ADDED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml:13:11-65
+	android:scheme
+		ADDED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml:13:66-88
+uses-sdk
+INJECTED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml
+MERGED from [:firebase_dynamic_links] C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\build\firebase_dynamic_links\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_dynamic_links] C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\build\firebase_dynamic_links\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:19.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-19.0.0.aar\35849a3e883b43fe9040696ddd56d206\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:19.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-19.0.0.aar\35849a3e883b43fe9040696ddd56d206\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.9.aar\0f7706f041d937f24bb0a1ac1cd5e09d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.9.aar\0f7706f041d937f24bb0a1ac1cd5e09d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-17.2.1.aar\9dd85ec6a64cf80b27db674ed03257bd\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-17.2.1.aar\9dd85ec6a64cf80b27db674ed03257bd\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:google_sign_in] C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\build\google_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:google_sign_in] C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\build\google_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-17.0.0.aar\ed31a20fbfc68a04d38b66817c5f4b85\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-17.0.0.aar\ed31a20fbfc68a04d38b66817c5f4b85\AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-16.0.1.aar\11f55a9627d9d478945f004ab22bfc83\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-16.0.1.aar\11f55a9627d9d478945f004ab22bfc83\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\7ca49437f9f74dffe18c6c13fb996c37\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\7ca49437f9f74dffe18c6c13fb996c37\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-interop-17.0.0.aar\cf4b6d77736b10d560502a2630d1a238\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-interop-17.0.0.aar\cf4b6d77736b10d560502a2630d1a238\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-api-phone-16.0.0.aar\26c80221224445d6a92b24a46d2017d0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-api-phone-16.0.0.aar\26c80221224445d6a92b24a46d2017d0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-base-16.0.0.aar\e3e5d81b05aa239359230970cd6b9400\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-base-16.0.0.aar\e3e5d81b05aa239359230970cd6b9400\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-17.2.1.aar\f2164b0bd65e2fa6b5406da08c61ddcb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-17.2.1.aar\f2164b0bd65e2fa6b5406da08c61ddcb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\0acd4d4174dcc36cef4c633e6e9fc987\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\0acd4d4174dcc36cef4c633e6e9fc987\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-17.0.0.aar\21cc1d9dcedb7e2ab7e003db78db5f7e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-17.0.0.aar\21cc1d9dcedb7e2ab7e003db78db5f7e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\9ef06eddd320b727e7aa68dde1c29195\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\9ef06eddd320b727e7aa68dde1c29195\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-common-19.0.0.aar\4dff437197083ae14f147fb7691e4ca3\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-common-19.0.0.aar\4dff437197083ae14f147fb7691e4ca3\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.0.aar\0e7cbf9e2d80b81ba867f75102d53ca7\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.0.aar\0e7cbf9e2d80b81ba867f75102d53ca7\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-18.0.0.aar\06c6d206556ecb704af3c14d6771aa35\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-18.0.0.aar\06c6d206556ecb704af3c14d6771aa35\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.1.aar\99aa9ba7c92af5fde1e869dee2e3e012\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.1.aar\99aa9ba7c92af5fde1e869dee2e3e012\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-17.2.1.aar\de932de0897689cd4b5b4e98d9a81fac\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-17.2.1.aar\de932de0897689cd4b5b4e98d9a81fac\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-17.2.1.aar\c76c24962f614366812439807eb7326c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-17.2.1.aar\c76c24962f614366812439807eb7326c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-17.2.1.aar\cf2df22e688eb5db7369cb089535a3ee\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-17.2.1.aar\cf2df22e688eb5db7369cb089535a3ee\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-17.2.1.aar\8cb2e24e74e3eac3517f6003e2f5bf4a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-17.2.1.aar\8cb2e24e74e3eac3517f6003e2f5bf4a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-stats-17.0.0.aar\b628570f5353d7f478d09a731872587d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-stats-17.0.0.aar\b628570f5353d7f478d09a731872587d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-17.0.0.aar\f8471fe628f895f86a7181b9e3540af8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-17.0.0.aar\f8471fe628f895f86a7181b9e3540af8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\f78f8af59dc9aee97b92b8ae733f0977\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\f78f8af59dc9aee97b92b8ae733f0977\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\070be1500897fe0c02beb4758c51a31d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\070be1500897fe0c02beb4758c51a31d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\c23ea777b00249559e8cd77c25a85af7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\c23ea777b00249559e8cd77c25a85af7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\e3bbe09edda4e433008e22ee7e806341\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\e3bbe09edda4e433008e22ee7e806341\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\fda8173e0cb6628bb1c3d19cfead096c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\fda8173e0cb6628bb1c3d19cfead096c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\e3a4a3454c3c5903959f0b5f0012d81b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\e3a4a3454c3c5903959f0b5f0012d81b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\069969af22d6c99f6eb73ec22343d97b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\069969af22d6c99f6eb73ec22343d97b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\2b2d134a05bb893bd78aafe0101146f2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\2b2d134a05bb893bd78aafe0101146f2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\1b25bda8d97e0af8283f3bd4afb6db82\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\1b25bda8d97e0af8283f3bd4afb6db82\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\106374c3234465fbdffb430593e6c352\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\106374c3234465fbdffb430593e6c352\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\621ea3000541df29002d7ad2090fa5c7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\621ea3000541df29002d7ad2090fa5c7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\32e0806aba037e553e5976d5011dee88\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\32e0806aba037e553e5976d5011dee88\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\1845049aff89224fd5ae527df8ce55d7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\1845049aff89224fd5ae527df8ce55d7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\54117d00ed7da996550de5a1b5f39912\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\54117d00ed7da996550de5a1b5f39912\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\9a937708cd0591434b6aa361016418d3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\9a937708cd0591434b6aa361016418d3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\8750fb1683e95a67709d0bd32444c078\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\8750fb1683e95a67709d0bd32444c078\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\2609bdbff4a19709341ad347e33d3ef6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\2609bdbff4a19709341ad347e33d3ef6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\ce309c852d54118283d2449da26070ec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\ce309c852d54118283d2449da26070ec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\446a734eb042fedd0dc3d0b749645914\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\446a734eb042fedd0dc3d0b749645914\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\8138bb40dcc4ceb4c587ff5a65b56cec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\8138bb40dcc4ceb4c587ff5a65b56cec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\d838c7605999897c9fbc4e316caf12f2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\d838c7605999897c9fbc4e316caf12f2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\a416dd17e43718d8ab02beab6df7aa12\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\a416dd17e43718d8ab02beab6df7aa12\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\9b024bfdd1bb7ace09d234bd46cfa74b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\9b024bfdd1bb7ace09d234bd46cfa74b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\5e349af5058d5e99918c99cc784d2b64\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\5e349af5058d5e99918c99cc784d2b64\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\android\app\src\main\AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-dynamic-links:19.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-19.0.0.aar\35849a3e883b43fe9040696ddd56d206\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_auth] C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_auth] C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-17.0.0.aar\ed31a20fbfc68a04d38b66817c5f4b85\AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-17.0.0.aar\ed31a20fbfc68a04d38b66817c5f4b85\AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-17.2.1.aar\f2164b0bd65e2fa6b5406da08c61ddcb\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-17.2.1.aar\f2164b0bd65e2fa6b5406da08c61ddcb\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\0acd4d4174dcc36cef4c633e6e9fc987\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\0acd4d4174dcc36cef4c633e6e9fc987\AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-17.0.0.aar\ed31a20fbfc68a04d38b66817c5f4b85\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-dynamic-links:19.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-19.0.0.aar\35849a3e883b43fe9040696ddd56d206\AndroidManifest.xml:8:18-89
+meta-data#com.google.firebase.components:com.google.firebase.dynamiclinks.internal.FirebaseDynamicLinkRegistrar
+ADDED from [com.google.firebase:firebase-dynamic-links:19.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-19.0.0.aar\35849a3e883b43fe9040696ddd56d206\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [com.google.firebase:firebase-dynamic-links:19.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-19.0.0.aar\35849a3e883b43fe9040696ddd56d206\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-dynamic-links:19.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-19.0.0.aar\35849a3e883b43fe9040696ddd56d206\AndroidManifest.xml:10:17-133
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_core] C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_core] C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_core] C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-123
+meta-data#com.google.firebase.components:io.flutter.plugins.firebaseauth.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_auth] C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_auth] C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_auth] C:\Users\eymen\Desktop\firebase_auth-0.14.0+3.tar\example\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-122
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-17.0.0.aar\ed31a20fbfc68a04d38b66817c5f4b85\AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-17.0.0.aar\ed31a20fbfc68a04d38b66817c5f4b85\AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-17.0.0.aar\ed31a20fbfc68a04d38b66817c5f4b85\AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-17.0.0.aar\ed31a20fbfc68a04d38b66817c5f4b85\AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-17.0.0.aar\ed31a20fbfc68a04d38b66817c5f4b85\AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-17.0.0.aar\ed31a20fbfc68a04d38b66817c5f4b85\AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-17.0.0.aar\ed31a20fbfc68a04d38b66817c5f4b85\AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-17.0.0.aar\ed31a20fbfc68a04d38b66817c5f4b85\AndroidManifest.xml:25:13-85
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-17.0.0.aar\ed31a20fbfc68a04d38b66817c5f4b85\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-17.0.0.aar\ed31a20fbfc68a04d38b66817c5f4b85\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-17.0.0.aar\ed31a20fbfc68a04d38b66817c5f4b85\AndroidManifest.xml:37:17-109
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-16.0.1.aar\11f55a9627d9d478945f004ab22bfc83\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-16.0.1.aar\11f55a9627d9d478945f004ab22bfc83\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-16.0.1.aar\11f55a9627d9d478945f004ab22bfc83\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-16.0.1.aar\11f55a9627d9d478945f004ab22bfc83\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-16.0.1.aar\11f55a9627d9d478945f004ab22bfc83\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-16.0.1.aar\11f55a9627d9d478945f004ab22bfc83\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-16.0.1.aar\11f55a9627d9d478945f004ab22bfc83\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-16.0.1.aar\11f55a9627d9d478945f004ab22bfc83\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-16.0.1.aar\11f55a9627d9d478945f004ab22bfc83\AndroidManifest.xml:34:13-89
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-17.2.1.aar\f2164b0bd65e2fa6b5406da08c61ddcb\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\0acd4d4174dcc36cef4c633e6e9fc987\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\0acd4d4174dcc36cef4c633e6e9fc987\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.1.aar\99aa9ba7c92af5fde1e869dee2e3e012\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.1.aar\99aa9ba7c92af5fde1e869dee2e3e012\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-17.2.1.aar\c76c24962f614366812439807eb7326c\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-17.2.1.aar\c76c24962f614366812439807eb7326c\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-17.2.1.aar\cf2df22e688eb5db7369cb089535a3ee\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-17.2.1.aar\cf2df22e688eb5db7369cb089535a3ee\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-17.2.1.aar\f2164b0bd65e2fa6b5406da08c61ddcb\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-17.2.1.aar\f2164b0bd65e2fa6b5406da08c61ddcb\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\0acd4d4174dcc36cef4c633e6e9fc987\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\0acd4d4174dcc36cef4c633e6e9fc987\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.1.aar\99aa9ba7c92af5fde1e869dee2e3e012\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.1.aar\99aa9ba7c92af5fde1e869dee2e3e012\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-17.2.1.aar\c76c24962f614366812439807eb7326c\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-17.2.1.aar\c76c24962f614366812439807eb7326c\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-17.2.1.aar\cf2df22e688eb5db7369cb089535a3ee\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-17.2.1.aar\cf2df22e688eb5db7369cb089535a3ee\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-17.2.1.aar\f2164b0bd65e2fa6b5406da08c61ddcb\AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-17.2.1.aar\f2164b0bd65e2fa6b5406da08c61ddcb\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-17.2.1.aar\f2164b0bd65e2fa6b5406da08c61ddcb\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-17.2.1.aar\f2164b0bd65e2fa6b5406da08c61ddcb\AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\0acd4d4174dcc36cef4c633e6e9fc987\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\0acd4d4174dcc36cef4c633e6e9fc987\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\0acd4d4174dcc36cef4c633e6e9fc987\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\0acd4d4174dcc36cef4c633e6e9fc987\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\0acd4d4174dcc36cef4c633e6e9fc987\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\0acd4d4174dcc36cef4c633e6e9fc987\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\0acd4d4174dcc36cef4c633e6e9fc987\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\0acd4d4174dcc36cef4c633e6e9fc987\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\0acd4d4174dcc36cef4c633e6e9fc987\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\0acd4d4174dcc36cef4c633e6e9fc987\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\0acd4d4174dcc36cef4c633e6e9fc987\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\0acd4d4174dcc36cef4c633e6e9fc987\AndroidManifest.xml:42:25-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\9ef06eddd320b727e7aa68dde1c29195\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\9ef06eddd320b727e7aa68dde1c29195\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\9ef06eddd320b727e7aa68dde1c29195\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\9ef06eddd320b727e7aa68dde1c29195\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-common-19.0.0.aar\4dff437197083ae14f147fb7691e4ca3\AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-common-19.0.0.aar\4dff437197083ae14f147fb7691e4ca3\AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-common-19.0.0.aar\4dff437197083ae14f147fb7691e4ca3\AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-common-19.0.0.aar\4dff437197083ae14f147fb7691e4ca3\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\firebase-common-19.0.0.aar\4dff437197083ae14f147fb7691e4ca3\AndroidManifest.xml:13:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.1.aar\99aa9ba7c92af5fde1e869dee2e3e012\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-17.2.1.aar\c76c24962f614366812439807eb7326c\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-17.2.1.aar\c76c24962f614366812439807eb7326c\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.1.aar\99aa9ba7c92af5fde1e869dee2e3e012\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.1.aar\99aa9ba7c92af5fde1e869dee2e3e012\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.1.aar\99aa9ba7c92af5fde1e869dee2e3e012\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.1.aar\99aa9ba7c92af5fde1e869dee2e3e012\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.1.aar\99aa9ba7c92af5fde1e869dee2e3e012\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.1.aar\99aa9ba7c92af5fde1e869dee2e3e012\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-17.2.1.aar\c76c24962f614366812439807eb7326c\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-17.2.1.aar\c76c24962f614366812439807eb7326c\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.1.aar\99aa9ba7c92af5fde1e869dee2e3e012\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.1.aar\99aa9ba7c92af5fde1e869dee2e3e012\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.1.aar\99aa9ba7c92af5fde1e869dee2e3e012\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.1.aar\99aa9ba7c92af5fde1e869dee2e3e012\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.1.aar\99aa9ba7c92af5fde1e869dee2e3e012\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.1.aar\99aa9ba7c92af5fde1e869dee2e3e012\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.1.aar\99aa9ba7c92af5fde1e869dee2e3e012\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.1.aar\99aa9ba7c92af5fde1e869dee2e3e012\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.1.aar\99aa9ba7c92af5fde1e869dee2e3e012\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.1.aar\99aa9ba7c92af5fde1e869dee2e3e012\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.1.aar\99aa9ba7c92af5fde1e869dee2e3e012\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.1.aar\99aa9ba7c92af5fde1e869dee2e3e012\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.1.aar\99aa9ba7c92af5fde1e869dee2e3e012\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.1.aar\99aa9ba7c92af5fde1e869dee2e3e012\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.1.aar\99aa9ba7c92af5fde1e869dee2e3e012\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.1.aar\99aa9ba7c92af5fde1e869dee2e3e012\AndroidManifest.xml:49:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\f78f8af59dc9aee97b92b8ae733f0977\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\f78f8af59dc9aee97b92b8ae733f0977\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\eymen\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\f78f8af59dc9aee97b92b8ae733f0977\AndroidManifest.xml:24:13-58

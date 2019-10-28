@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1040414549016-1r3c888rb9vflt8p5dmrfncuosoe57tp.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://hergeledb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1040414549016</string>
+    <string name="google_api_key" translatable="false">AIzaSyC1yef5RYjIriJTj_dweta1_AwTcdktdPA</string>
+    <string name="google_app_id" translatable="false">1:1040414549016:android:0be54ae9031c4426e0cf6d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC1yef5RYjIriJTj_dweta1_AwTcdktdPA</string>
+    <string name="google_storage_bucket" translatable="false">hergeledb.appspot.com</string>
+    <string name="project_id" translatable="false">hergeledb</string>
+</resources>
